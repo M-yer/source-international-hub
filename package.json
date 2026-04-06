@@ -1,0 +1,27 @@
+{
+  "name": "source-website-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-yer/source-international-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/M-yer/source-international-hub/issues"
+  },
+  "homepage": "https://github.com/M-yer/source-international-hub#readme",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}
